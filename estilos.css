@@ -1,20 +1,44 @@
 .menu{
     float: right;
-
+    color: black;
+    text-decoration: overline;
+    font-family: 'Roboto', sans-serif;
+   font-size: x-large;
+    font-weight: lighter;
+    
+   
 }
 
 .menuizq{
     float: left;
-    padding-right: 5em;
-}
-.socialmedia>a{
+    padding-right: 2em;
+    padding-top: 10px;
+    text-decoration: none;
+    margin: 5px;
+    padding: 5px;
     
-    margin-left: .5em;
+    
+    
 }
-.socialmedia>a>img:hover{
-    width: 26px;
-    height: 26px;
-}
+
 .derecha{
     float: right;
+    text-decoration: none;
+    margin-left: 1em;
+    margin-right: 2em;
+}
+
+.cabeza{
+    margin-left: 1em;
+    margin-right: 1em;
+}
+
+.TITULOSHOOT{
+    color: black;
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+   font-size: large;
+    padding-left: 1.5em;
+    padding-top: -1px;
+
 }
