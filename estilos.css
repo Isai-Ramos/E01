@@ -1,0 +1,20 @@
+.menu{
+    float: right;
+
+}
+
+.menuizq{
+    float: left;
+    padding-right: 5em;
+}
+.socialmedia>a{
+    
+    margin-left: .5em;
+}
+.socialmedia>a>img:hover{
+    width: 26px;
+    height: 26px;
+}
+.derecha{
+    float: right;
+}
