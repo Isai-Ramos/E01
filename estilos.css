@@ -13,15 +13,14 @@
 }
 
 .menuizq{
+
     float: left;
     padding-right: 2em;
     padding-top: 10px;
     text-decoration: none;
     margin: 5px;
     padding: 5px;
-    
-    
-    
+
 }
 
 .derecha{
@@ -199,21 +198,82 @@
 
 .articulos{
     float: left;
-    height: 500px;
-    width: 500px;
-    margin: 1em;
+    height: 400px;
+    width: 350px;
+    margin: 4em;
+    
 }
 
 .Productos{
    
-    padding-left: 10em;
+    padding-left: 7em;
     
 }
 
 
 .img-Productos{
     
-    max-width: 600px;
+    max-width: 400px;
     max-height: 350px;
     
 }
+
+.TituloDeArticulo{
+    color: black;
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+   font-size: 200%;
+   text-align: left;
+   font-weight: lighter;
+}
+
+.TextoArticulo{
+    color: black;
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+   font-size: 100%;
+   text-align: left;
+   font-weight: 400;
+}
+.FormularioD{
+    float: right;
+    padding-top: 10em;
+    padding-right: 10em;
+}
+
+.Informacion{
+    float: left;
+    padding-top: 5em;
+    padding-left: 3em;
+}
+
+.Datos{
+    line-height : 10px;
+    color: black;
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+   font-size: 130%;
+   text-align: left;
+   font-weight: 380;
+}
+.TContactanos{
+
+    
+    color: black;
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+   font-size: 130%;
+   text-align: left;
+   font-weight: 400;
+}
+
+.Datos1{
+    line-height : 40px;
+    color: black;
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+   font-size: 130%;
+   text-align: left;
+   font-weight: 380;
+}
+/* 492118*/
