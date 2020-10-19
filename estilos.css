@@ -238,13 +238,14 @@
 .FormularioD{
     float: right;
     padding-top: 10em;
-    padding-right: 10em;
+    padding-right: 40em;
 }
 
 .Informacion{
     float: left;
     padding-top: 5em;
-    padding-left: 3em;
+    padding-left: 7em;
+    
 }
 
 .Datos{
@@ -272,8 +273,16 @@
     color: black;
     text-decoration: none;
     font-family: 'Roboto', sans-serif;
-   font-size: 130%;
+   font-size: 110%;
    text-align: left;
-   font-weight: 380;
+   font-weight: 300;
+   padding-right: 20px;
 }
-/* 492118*/
+.boton{
+    position: relative; top: 135px; left: 90px; 
+    height: 50px;
+    width: 300px;
+    color: white;
+    background-color: #422D28;
+}
+
